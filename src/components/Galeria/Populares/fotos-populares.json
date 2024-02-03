@@ -1,0 +1,28 @@
+[
+    {
+      "path": "/img/populares/foto-1.png",
+      "alt": "galaxia",
+      "id": 1
+    },
+    {
+      "path": "/img/populares/foto-2.png",
+      "alt": "luna",
+      "id": 2
+    },
+    {
+      "path": "/img/populares/foto-3.png",
+      "alt": "tierra",
+      "id": 3
+    },
+    {
+      "path": "/img/populares/foto-4.png",
+      "alt": "nube",
+      "id": 4
+    },
+    {
+      "path": "/img/populares/foto-5.png",
+      "alt": "meteorito",
+      "id": 5
+    }
+  ]
+  
